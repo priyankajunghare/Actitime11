@@ -1,3 +1,6 @@
 driver.findelementBy.id
 driver.findelementBy.name
 driver.findelementBy.class1
+driver.manage.clas2
+chromedriver driver=new chromedriver();
+driver.findelement.css
