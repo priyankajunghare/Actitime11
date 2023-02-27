@@ -3,4 +3,4 @@ driver.findelementBy.name
 driver.findelementBy.class1
 driver.manage.clas2
 driver.manage.class3
-driver.findelement.css
+driver.findelement.xpath
